@@ -103,7 +103,7 @@ color:hsl(219, 29%, 14%);
     border-radius: 10px;
 }
 /*Queries*/
-@media(max-width:375px){
+@media(max-width:500px){
     #daniel{
         grid-column: 1/5;
         grid-row: 1/2;
